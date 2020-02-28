@@ -8,10 +8,6 @@ This website is designed to explore some of the following: 
   <li>how to create, update and delete dependencies.</li>
 </ul>
 
-## Where to find it?
-
-Just click on [Shopping-Cart]()! 
-
 ## Built With
 <ul>
     <li>HTML</li>
